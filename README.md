@@ -71,19 +71,14 @@ List all games with stadium information
 The information in this query displays the game ID, the date of the game, the score of the game, the stadium name, and the city the stadium is in. A manager can look at this data and determine where the higher scoring games took place. WIth this information, ticket prices can be adjusted and it can also show how much revenue/loss to expect in the future games based on the previous games.
 
 
-Highest Revenue Games by Ticket Sales
-<img width="751" alt="Screenshot 2025-03-14 at 10 31 00 PM" src="https://github.com/user-attachments/assets/ed120a59-1a98-4378-91d1-b00c4ffa8c28" />
-This query retrieves the game ID, date, winning team, stadium city, and total revenue generated from ticket sales for each game, ordering the results by total revenue in descending order. This would be important for the NFL because it helps identify the most profitable games, which could provide insights into factors that drive higher ticket sales. League officials, team owners, and marketers could use this information to analyze trends, such as which teams attract the most fans, which stadiums generate the most revenue, and which games are in the highest demand. This data could influence future scheduling decisions, ticket pricing strategies, and marketing efforts to maximize revenue. Additionally, it could help determine ideal locations for high-profile events like playoff games and the Super Bowl, ensuring the league maximizes profitability and fan engagement.
-
-
 Coaches with above-average tenure
 <img width="714" alt="Screenshot 2025-03-14 at 10 31 39 PM" src="https://github.com/user-attachments/assets/ce9dbace-0eff-4e5c-a980-5cf68d001a0f" />
 This query displays the name and tenure of head coaches who have a tenure that is longer than the average of all head coaches. For the league manager this information can be very useful in judging coach performance, conducting investigation into questionable team/coach relationships, deciding who to award (ex. Coach of the Year), and determining which coaches should be marketed more in a way that boosts revenue and engagement with football fans.
 
 
 # Database Information
-<img width="685" alt="Screenshot 2025-03-14 at 10 32 18 PM" src="https://github.com/user-attachments/assets/ccccbf53-1cd5-45cc-87f6-6910baacc436" />
 Name of the database: ha_group4_crn71552
+<img width="669" alt="Screenshot 2025-03-14 at 10 37 35 PM" src="https://github.com/user-attachments/assets/b74128e1-eb48-4294-9514-3b4c55a993e1" />
 
 
 
